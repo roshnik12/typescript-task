@@ -1,0 +1,17 @@
+html{
+    height: 100%;
+}
+
+body{
+    height: 80%;
+}
+
+.my-row{
+    margin: 10px auto;
+}
+
+.header-div{
+    background: rgb(221, 236, 9);
+    border-radius: 12px;
+    height:100%;
+}
